@@ -62,3 +62,4 @@ These metrics ensure a comprehensive assessment of the model's performance.
 The Phishing-Website-Detection project is a valuable contribution to cybersecurity efforts, offering a machine learning-based approach to identifying phishing websites. Its combination of comprehensive feature extraction, multiple classifiers, and an interactive user interface makes it a practical tool for both researchers and end-users. With further enhancements, it has the potential to become an even more robust solution in combating phishing attacks.
 
 --- 
+By- Vidhi Jaju
